@@ -13,3 +13,10 @@ C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/scripts/09-su
 C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/scripts/10-addIndex.sql
 C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/scripts/11-dropindex.sql
 C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/scripts/12-ceateWritersTable.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/data/escritores.csv
+C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/data/14-join-Tables.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/scripts/15-subQuery.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/data/14-join-Tables.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/scripts/02-seedCitiesTable.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/scripts/01-CreatecitiesTable.sql
+C:/Users/Usuaria/intro_dev/programming-intro-lab-13-miasol19651965/data/-seedWritersTable.sql

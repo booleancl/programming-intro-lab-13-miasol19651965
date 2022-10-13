@@ -1,5 +1,7 @@
 \c bigcities
 
+DROP table if exists writers;
+
 CREATE TABLE writers(
     city_id INTEGER,
     name VARCHAR(45),
